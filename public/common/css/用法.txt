@@ -1,0 +1,28 @@
+﻿meta：
+<link rel="stylesheet" type="text/css" href="/jquery.bxslider.css">
+<script type="text/javascript" src="/jquery.bxslider.js"></script>
+
+js：
+<script type="text/javascript">
+	$(function(){
+		$('.bxslider').bxSlider({
+			mode: 'fade',  
+			speed: 2000,   
+			pause: 5000,
+			auto:true, 
+			controls:false,
+			pager:false, 
+			minSlides: 1,  
+			maxSlides: 1,  
+			moveSlides: 0,
+			slideWidth: 0 
+		});
+	});
+</script>
+
+html：
+<ul class="bxslider">
+	<li><img src="" alt=""></li>
+	<li><img src="" alt=""></li>
+	<li><img src="" alt=""></li>
+</ul>

@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+.content {
+  background: #ccc;
+  padding: 15px;
+}
+.heading {
+  color: black
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "displayLabel": "Home",
+        "link": "/"
+    },
+    {
+        "id": 2,
+        "displayLabel": "About Us",
+        "link": "/"
+    },
+    {
+        "id": 3,
+        "displayLabel": "Services",
+        "link": "/"
+    },
+    {
+        "id": 4,
+        "displayLabel": "Pricing",
+        "link": "/"
+    },
+    {
+        "id": 5,
+        "displayLabel": "Contact Us",
+        "link": "/"
+    }
+]
